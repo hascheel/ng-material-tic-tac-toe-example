@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
+## Tutorial
+https://developer.okta.com/blog/2020/01/21/angular-material-login
+
+`npm install -E @angular/material @angular/flex-layout hammerjs @angular/cdk tic-tac-toe-minimax`
+
+`ng add @angular/material`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
