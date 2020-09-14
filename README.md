@@ -9,6 +9,10 @@ https://developer.okta.com/blog/2020/01/21/angular-material-login
 
 `ng add @angular/material`
 
+`ng generate component home`
+
+`ng generate component game`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
