@@ -1,6 +1,6 @@
 # NgMaterialTicTacToe
 
-A simple tic tac toe game embedded in Angular and using Angular Material. The code follows a tutorial at Okta's blog: https://developer.okta.com/blog/2020/01/21/angular-material-login.
+A simple tic tac toe game embedded in Angular and using Angular Material.
 
 You can view a demo [here](https://ng-material-tic-tac-toe.web.app/)
 
@@ -39,3 +39,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Further reading
+
+This project is inspired by a a tutorial at Okta's blog: https://developer.okta.com/blog/2020/01/21/angular-material-login.
